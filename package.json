@@ -1,13 +1,3 @@
-"scripts": {
-  "deploy": "gh-pages -d dist"
-}
-
-
-
-
-
-
-
 {
   "name": "clinic-management",
   "private": true,
